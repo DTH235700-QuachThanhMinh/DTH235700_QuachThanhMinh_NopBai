@@ -1,1 +1,1 @@
-Nộp bài tập lý thuyết và bài tập thực hành môn "Chyên đề Python"
+Nộp bài tập lý thuyết và bài tập thực hành môn "Chuyên đề Python"
